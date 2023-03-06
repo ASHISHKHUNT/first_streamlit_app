@@ -11,6 +11,4 @@ streamlit.text("Hard-Boiled Free-Range Egg")
 
 streamlit.header("Build your own fruit smoothie")
 
-streamlit.text("Orange")
-streamlit.text("Apple Shake")
-streamlit.text("Banana Shake")
+
