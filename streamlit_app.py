@@ -108,5 +108,7 @@ streamlit.write('Thanks for adding ', add_my_fruit)
 
 my_cur.execute("insert into fruit_load_list('from streamlit')")
 
+streamlit.title("My Mom's New Healthy Lunch")
+
 
 
